@@ -2,4 +2,4 @@
 Python Studies
 
 
-A repository to store my studies in the Python, Javascript or Bash.
+A repository to store my studies in the Python or Javascript.
